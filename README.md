@@ -60,7 +60,8 @@ Consists of staff members (Assigned by Admin and higher)
 - **Expert Grower**: 5-10 Year(s) of experience
 - **Ultimate Grower**: 10+ Year(s) of experience
 
-## Engagement & Participation (Assigned by Admin or higher after multiple occurances of requirements)
+## Engagement
+(Assigned by Admin or higher after multiple occurances of requirements)
 - **Project Pioneer**: Members recognized for introducing original, innovative projects or methods related to cannabis cultivation.
 - **Event Enthusiast**: Members who actively participate in server events.
 - **Canna Curator**: Members who frequently share valuable resources, articles, or videos about cannabis cultivation.
