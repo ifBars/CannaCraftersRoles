@@ -5,10 +5,11 @@
 2. [Staff Teams](#Teams)
 3. [Specialized Roles](#Specialized)
 4. [Cultivation Preferences](#Cultivation)
-5. [Grower Experience](#Grower)
+5. [Grower Experience](#Experience)
 6. [Engagement & Participation](#Engagement)
 
-## Staff Hierarchy Roles (Assigned by Admin and higher)
+## Staff
+(Assigned by Admin and higher)
 - **Founder**: The original creator of the server and the individual behind the primary project that inspired the community. Has ultimate permissions and authority.
 - **Co-Founder**: The individual responsible for co-founding the discord server alongside the Founder. Has elevated permissions, slightly under the Founder.
 - **Community Manager**: The individual  who engages with the community, gathers feedback, and brainstorms strategies to boost engagement and member satisfaction with the help of other staff. 
@@ -19,12 +20,14 @@
 
 - **In Training**: This is a placeholder role for people who are accepted as a staff member, but are awaiting training at a later date to receive Probationary Moderator.
 
-# Teams (Specialized groups of staff members to handle specific scenarios)
+## Teams
+Consists of staff members (Assigned by Admin and higher)
 - **Verification Team**: This team is responsible to verify that members qualify for the specialized role that the said member is requesting, and if so, grant them said role. (Founder, Co-Founder, Community Manager, Admin)
 - **Training Team**: This is more simple then it sounds. It is simply a team of staff who show Day 1 staff members around the staff channels, and overall provide them with the info needed to moderate effectively. (Can be pretty much any staff member)
 - **Event Team**: This team is responsible for planning and hosting serverwide events, this plays a crucial part in community engagement. Putting on events realted to cannnabis, and cannabis projects, brings multiple people to the server all at once, driving up engagement. (Founder, Co-Founder, Community Manager, Maybe Admin)
 
-## Specialized Roles (Assigned by verification team)
+## Specialized
+(Assigned by verification team)
 - **Contributor**: Members who contribute to Sudofizz's DIY Dry/Cure Chamber project.
 - **Controls Expert**: Members who are involed in designing, installing, and maintaining automation systems that regulate and control processes.
 - **Software Expert**: Members who are involved in engineering software for DIY Cannabis Projects.
@@ -33,7 +36,8 @@
 - **Extraction Expert**: Members who are experts in cannabis extraction methods.
 - **Content Creator**: Members who create content on a public platform for a decently large audience
 
-## Cultivation Preferences (Self-Assignable Roles)
+## Cultivation
+(Self-Assignable Roles)
 - **Hydroponics Grower**: Members who practice or are interested in hydroponics growing methods.
 - **Aeroponics Grower**: Members passionate about or practicing aeroponics cultivation.
 - **Soil Grower**: Members who prefer traditional soil-based cultivation.
@@ -48,7 +52,8 @@
 - **Recreational User**: Members who use cannabis recreationally.
 - **Edibles Enthusiast**: Members who have an interest in cannabis-infused edibles.
 
-## Grower Experience (Self-Assignable Roles)
+## Experience
+(Self-Assignable Roles)
 - **Novice**: 0-1 Year of experience
 - **Intermediate Grower**: 1-3 Year(s) of experience
 - **Advanced Grower**: 3-5 Year(s) of experience
