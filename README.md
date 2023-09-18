@@ -1,5 +1,3 @@
-# Canna Crafters: Discord Server Roles Outline
-
 # Table of Contents
 1. [Staff Hierarchy Roles](#Staff)
 2. [Staff Teams](#Teams)
